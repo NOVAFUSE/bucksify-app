@@ -1,0 +1,24 @@
+{
+  "name": "FUSE",
+  "version": "1.0.0",
+  "authors": [],
+  "license": "WorkIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "appPath": "src/app",
+  "devDependencies": {
+    "angular": "~1.4.9"
+  },
+  "dependencies": {
+    "angular": "~1.4.9",
+    "underscore": "1.8.3"
+  },
+  "resolutions": {
+    "angular": "~1.4.9"
+  }
+}

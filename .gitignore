@@ -1,0 +1,12 @@
+node_modules
+bower_components
+dist
+docs
+/reports
+!.bowerrc
+app-rest-preprocessed.js
+coverage
+*.zip
+/config.json
+workitsaas.com.crt
+workitsaas.com.key

@@ -1,1 +1,1 @@
-# fuse-web project
+# Bucksify app project
